@@ -6,4 +6,6 @@
 
 - In search of opportunity to give the experiences I developped </>
 
+- [![My stats](https://github-readme-stats.vercel.app/api?username=Jossuc4)](https://github.com/anuraghazra/github-readme-stats)
+
 # #Work_Hard
