@@ -6,6 +6,6 @@
 
 - In search of opportunity to give the experiences I developped </>
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Jossuc4&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Jossuc4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # #Work_Hard
